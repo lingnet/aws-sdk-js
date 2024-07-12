@@ -20,7 +20,7 @@
       "cucumber": "latest"
     },
     "dependencies": {
-      "xml2js": "0.2.4",
+      "xml2js": "0.5.0",
       "xmlbuilder": "latest"
     },
     "main": "lib/aws.js",
